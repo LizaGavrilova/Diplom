@@ -1,0 +1,9 @@
+      Ion:  yes
+     Cond:  yes
+  Exhaust:  yes
+   Subst1:  C5.213H24.948O28.408N7.428Cl2.979Al7.413[-2034] - 0.998
+   Subst2:  C5.268H4.800O12.375N2.062Cl3.663Al22.237[-64.39] - 0.002
+    P1cam:  p= 5 MПa
+    P2cam:  I=  -2030.061 кДж/кг
+     Ausg:  p(a)= 0.03 MПa
+    Model:  равн.

@@ -1,0 +1,8 @@
+      Ion:  yes
+     Cond:  yes
+  Exhaust:  yes
+   Subst1:  C19.007H25.686O36.995N10.986[-1888] - 1
+    P1cam:  p= 5 MПa
+    P2cam:  I=  -1888.000 кДж/кг
+     Ausg:  p(a)= 0.03 MПa
+    Model:  равн.
