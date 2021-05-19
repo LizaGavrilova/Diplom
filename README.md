@@ -1,0 +1,2 @@
+# huinya_bmstu
+Diplom
